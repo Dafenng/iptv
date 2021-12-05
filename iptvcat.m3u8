@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bally Sports Arizona
 http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4843.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16201.ts?checkedby:iptvcat.com
