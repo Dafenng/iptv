@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Bally Sports Arizona
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/4843.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Chicago
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16201.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Philadelphia
-http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/11461?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Yes Network
-http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/17047?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",YES Network USA
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668?checkedby:iptvcat.com
