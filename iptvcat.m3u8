@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",YES Network USA
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3668?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area+
-http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1861?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1692?checkedby:iptvcat.com
 
